@@ -16,7 +16,7 @@ This repository contains personal logs for each team member, documenting their c
 
 ## Week 1: Project Setup and Initial Planning
 
-- **Date:** []
+- **Date:** 02.03.2024 - 09.03.2024
 - **Task:** Project setup and initial planning.
 - **Progress:** 
     - Set up the development environment.
@@ -25,8 +25,8 @@ This repository contains personal logs for each team member, documenting their c
     - Familiarizing with the C programming language and its nuances.
     - Coordinating with team members to align on the project's direction.
 - **Achievements:** 
-    - Successfully established the project's structure and goals.
-    - Assembled a comprehensive development plan.
+    - Established the project's structure and goals.
+    - Assembled a comprehensive development plan and personal logs.
 
 ## Week 2: Game Design and Architecture
 
@@ -103,7 +103,7 @@ This repository contains personal logs for each team member, documenting their c
 This repository serves as a testament to our collective efforts in developing a game using the C programming language over the course of 6 weeks.
 ## Contributors
 
-- [Maria](https://github.com/yourusername) - CEO, Project Lead
+- [Maria](https://github.com/ImHolyMaryI) - CEO, Project Lead
 - [Arafin](https://github.com/anotherusername) - CIE, Chief Information Engineer
 - [Arslan](https://github.com/yetanotherusername) - Writer, Story and Dialogue
 - [Andrew](https://github.com/andsoonusername) - Programmer, Core Game Mechanics
